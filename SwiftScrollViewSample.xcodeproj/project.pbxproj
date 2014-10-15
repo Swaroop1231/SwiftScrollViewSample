@@ -7,12 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		05ADBE8B19EE42F40050ABA2 /* orange.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 05ADBE8A19EE42F40050ABA2 /* orange.jpeg */; };
 		05DAFC2119E823D100933861 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DAFC2019E823D100933861 /* AppDelegate.swift */; };
 		05DAFC2319E823D100933861 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DAFC2219E823D100933861 /* ViewController.swift */; };
-		05DAFC2619E823D100933861 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05DAFC2419E823D100933861 /* Main.storyboard */; };
 		05DAFC2819E823D100933861 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05DAFC2719E823D100933861 /* Images.xcassets */; };
 		05DAFC2B19E823D100933861 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 05DAFC2919E823D100933861 /* LaunchScreen.xib */; };
 		05DAFC3719E823D100933861 /* SwiftScrollViewSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DAFC3619E823D100933861 /* SwiftScrollViewSampleTests.swift */; };
+		05DAFC4119E8240100933861 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 05DAFC4019E8240100933861 /* ViewController.xib */; };
+		05DAFC4719E8245800933861 /* apple.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 05DAFC4219E8245800933861 /* apple.jpeg */; };
+		05DAFC4819E8245800933861 /* banana.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 05DAFC4319E8245800933861 /* banana.jpeg */; };
+		05DAFC4919E8245800933861 /* grapes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 05DAFC4419E8245800933861 /* grapes.jpeg */; };
+		05DAFC4A19E8245800933861 /* mango.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 05DAFC4519E8245800933861 /* mango.jpeg */; };
+		05DAFC4B19E8245800933861 /* pears.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 05DAFC4619E8245800933861 /* pears.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,16 +32,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		05ADBE8A19EE42F40050ABA2 /* orange.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = orange.jpeg; sourceTree = "<group>"; };
 		05DAFC1B19E823D100933861 /* SwiftScrollViewSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftScrollViewSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05DAFC1F19E823D100933861 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		05DAFC2019E823D100933861 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05DAFC2219E823D100933861 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		05DAFC2519E823D100933861 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		05DAFC2719E823D100933861 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		05DAFC2A19E823D100933861 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		05DAFC3019E823D100933861 /* SwiftScrollViewSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftScrollViewSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		05DAFC3519E823D100933861 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		05DAFC3619E823D100933861 /* SwiftScrollViewSampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftScrollViewSampleTests.swift; sourceTree = "<group>"; };
+		05DAFC4019E8240100933861 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		05DAFC4219E8245800933861 /* apple.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = apple.jpeg; sourceTree = "<group>"; };
+		05DAFC4319E8245800933861 /* banana.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = banana.jpeg; sourceTree = "<group>"; };
+		05DAFC4419E8245800933861 /* grapes.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = grapes.jpeg; sourceTree = "<group>"; };
+		05DAFC4519E8245800933861 /* mango.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mango.jpeg; sourceTree = "<group>"; };
+		05DAFC4619E8245800933861 /* pears.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pears.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +91,8 @@
 			children = (
 				05DAFC2019E823D100933861 /* AppDelegate.swift */,
 				05DAFC2219E823D100933861 /* ViewController.swift */,
-				05DAFC2419E823D100933861 /* Main.storyboard */,
+				05DAFC4019E8240100933861 /* ViewController.xib */,
+				05DAFC4C19E8245D00933861 /* Resources */,
 				05DAFC2719E823D100933861 /* Images.xcassets */,
 				05DAFC2919E823D100933861 /* LaunchScreen.xib */,
 				05DAFC1E19E823D100933861 /* Supporting Files */,
@@ -110,6 +123,19 @@
 				05DAFC3519E823D100933861 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		05DAFC4C19E8245D00933861 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				05DAFC4219E8245800933861 /* apple.jpeg */,
+				05DAFC4319E8245800933861 /* banana.jpeg */,
+				05DAFC4419E8245800933861 /* grapes.jpeg */,
+				05DAFC4519E8245800933861 /* mango.jpeg */,
+				05DAFC4619E8245800933861 /* pears.jpeg */,
+				05ADBE8A19EE42F40050ABA2 /* orange.jpeg */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,9 +218,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				05DAFC2619E823D100933861 /* Main.storyboard in Resources */,
+				05DAFC4719E8245800933861 /* apple.jpeg in Resources */,
+				05DAFC4B19E8245800933861 /* pears.jpeg in Resources */,
+				05DAFC4919E8245800933861 /* grapes.jpeg in Resources */,
+				05DAFC4819E8245800933861 /* banana.jpeg in Resources */,
 				05DAFC2B19E823D100933861 /* LaunchScreen.xib in Resources */,
+				05DAFC4119E8240100933861 /* ViewController.xib in Resources */,
+				05DAFC4A19E8245800933861 /* mango.jpeg in Resources */,
 				05DAFC2819E823D100933861 /* Images.xcassets in Resources */,
+				05ADBE8B19EE42F40050ABA2 /* orange.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,14 +268,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		05DAFC2419E823D100933861 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				05DAFC2519E823D100933861 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		05DAFC2919E823D100933861 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -405,6 +429,7 @@
 				05DAFC3C19E823D100933861 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		05DAFC3D19E823D100933861 /* Build configuration list for PBXNativeTarget "SwiftScrollViewSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +438,7 @@
 				05DAFC3F19E823D100933861 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
